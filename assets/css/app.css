@@ -1,0 +1,283 @@
+html { 
+
+}
+body {
+	background: url(../img/ArchesNP1200x800.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.form-control{
+	border: 1px solid #919cc1 !important;
+	font-size: 14px !important;
+}
+.panel-primary > .panel-heading {
+	color: black;
+	font-weight: bold;
+}
+.btn-primary {
+	color: black;
+}
+/*
+** navbar styles
+*/
+.dropdown-menu {
+	background-color: #101010;
+}
+.icon-bar {
+	background-color: orange !important;
+}
+.navbar a {
+	font-size: 1.3em;
+}
+.navbar-inverse .navbar-nav  li a {
+	color: orange;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu  li  a {
+	color: orange;
+}
+.navbar-brand  {
+	color: orange !important;
+}
+.navbar-inverse .navbar-nav  li a:hover {
+	color: blue;
+	background-color: yellow;
+}
+.aLink{
+	color: #131304;
+	font-size: 1.6em;
+	font-weight: bold;
+}
+.backgroundWhite {
+	background-color: #ffff99;
+	border-radius: 5px;
+}
+.backgroundGrey {
+	background-color: #b3b300;
+}
+#captcha img{
+	height: 62px;
+}
+.captcha-box {
+	background-color: #ffe599;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+#contentMain {
+	max-width: 1200px;
+	//padding-top: 20px;
+}
+#contentWrapper {
+	max-width: 1400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#datepicker: {	
+	margin-left: auto;
+	margin-right: auto;
+}
+.footerLinks {
+	text-align: center;
+	font-size: 1.7em;
+}
+.light{
+	color: #f0f0e1;
+}
+#requestError {
+	color: red;
+}
+#llMap {
+	height: 400px;
+}
+.links-list {
+	background-color: #ffff99;
+	border-radius: 5px;
+	list-style: none;
+	padding-left: 5px;
+}
+.links-list li {
+	font-size: 1.2em;
+}
+.links-list a {
+	margin-right: .5em;
+	font-weight: bold;
+}
+/* .llPanel is the main presentation class */
+.llPanel {
+	background: rgba(255, 111, 0, 0.8);   
+	border-radius: 10px;
+	padding: 7px;
+    font-family: Ariel, sans-serif;
+	color: #000000;
+	margin-bottom: 7px;
+	border: 2px solid #353526;
+}
+.llPanel h2{
+	font-family: 'Patua One', cursive;
+	font-weight: bold;
+	margin-top: 0px;	
+}
+.llPanel h3{
+	font-family: 'Patua One', cursive;	
+	font-weight: bold;
+	margin-top: 0px;	
+}
+.llPanel h4 {
+	font-family: 'Patua One', cursive;	
+	font-weight: bold;
+	margin-top: 0px;
+}
+.llPanel p {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-bottom: 9px;	
+}
+.llPanel li {
+	font-weight: bold;
+	font-size: 1.4em;
+}
+.llPanel1 h2{
+	font-family: 'Patua One', cursive;
+	font-weight: bold;
+	margin-top: 0px;	
+}
+.llPanel1 h3{
+	font-family: 'Patua One', cursive;
+	font-weight: bold;
+	margin-top: 0px;	
+}
+.llPanel1 h4{
+	font-family: 'Patua One', cursive;
+	font-weight: bold;
+	margin-top: 0px;	
+}
+/* .llPanel1 is used for the prices page */
+.llPanel1 {
+	background: rgba(255, 111, 0, 0.8);   
+	border-radius: 10px;
+	padding: 7px;
+    font-family: Ariel, sans-serif;	
+	color: #000000;
+	margin-bottom: 7px;
+	border: 2px solid #353526;
+}
+.llPanelDense {
+	background: rgba(0, 0, 0, .5);   
+	border-radius: 10px;
+	padding: 7px;
+    font-family: Ariel, sans-serif;	
+	color: #000000;
+	margin-bottom: 7px;
+	font-size: 1.2em;
+}
+.llPanelLinks {
+	background: rgba(255, 111, 0, 0.8);   
+	border-radius: 10px;
+	padding: 7px;
+    font-family: Ariel, sans-serif;
+	color: #000000;
+	margin-bottom: 7px;
+	border: 2px solid #353526;
+}
+.llPanelLinks h2{
+	font-family: 'Patua One', cursive;
+	font-weight: bold;
+	margin-top: 0px;	
+}
+.llPanelLinks h3{
+	font-family: 'Patua One', cursive;	
+	font-weight: bold;
+	margin-top: 0px;	
+}
+.logoBack {
+	background: rgba(0, 0, 0, .4);
+	border-radius: 10px;
+	margin-top: 7px;
+}
+.navbar {
+	margin-bottom: 0px !important;
+}
+.pad4 {
+	padding: 4px;
+}
+.p18{
+	font-size: 1.2em;
+	margin-bottom: 0px !important;
+	font-family: 'Patua One', cursive;	
+}
+.p16b{
+	font-size: 13px;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+.p18b{
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 0px !important;
+}
+.p20b {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 0px !important;
+}
+.p24{
+	font-size: 24px;
+	margin-bottom: 0px !important;
+}
+.p32b{
+	font-size: 32px;
+	font-weight: bold;
+	margin-bottom: 0px !important;	
+}
+.pricesTable {
+	max-width: 800px;
+}
+.pricesTable tr{
+	font-weight: bold;
+	font-size: 16px;	
+}
+.quickLinks a {
+	margin-bottom: 7px;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+.spacer{
+	min-height:7px;
+}
+.spacerLine{
+	margin-bottom: 7px;
+	border-bottom: 2px solid #242415;
+}
+.ulMed {
+	color: #000000;
+	font-size: 16px;
+	font-weight: bold;	
+}
+.row {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*
+Footer styles
+*/
+.footerWrapper {
+	max-width: 1170px;
+	background-color: #131304;
+	border-radius: 10px;
+}
+.footerWrapper ul {
+	list-style: none;
+}
+.footerWrapper a {
+	font-family: 'Patua One', cursive;
+	color: orange;
+	
+}
+.winterText {
+	color: #238c00;
+}
