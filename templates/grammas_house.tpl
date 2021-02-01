@@ -32,9 +32,29 @@
 			</div>
 		</div>
     <div class="row">
-      <div class="col-xs-12 col-sm-6">
+      <div class="col-xs-12 col-sm-6 col-md-4">
 					<div class="pad4">
 						<img src="assets/img/grammas_backyard.jpg" class="center-block img-responsive img-rounded" alt="Back yard of Grammas House" title="Back yard of Grammas House">	
+					</div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+					<div class="pad4">
+						<img src="assets/img/n_gm_kitchen_s.JPG" class="center-block img-responsive img-rounded" alt="Grammas House Kitchen" title="Grammas House Kitchen">	
+					</div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+					<div class="pad4">
+						<img src="assets/img/n_gm_diningroom_s.JPG" class="center-block img-responsive img-rounded" alt="Grammas House Dining Room" title="Grammas House Dining Room">	
+					</div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+					<div class="pad4">
+						<img src="assets/img/n_gm_bedroom_s.JPG" class="center-block img-responsive img-rounded" alt="Grammas House Bedroom" title="Grammas House Bedroom">	
+					</div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+					<div class="pad4">
+						<img src="assets/img/n_gm_front_s.JPG" class="center-block img-responsive img-rounded" alt="Grammas House Front" title="Grammas House Front">	
 					</div>
       </div>
     </div>

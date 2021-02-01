@@ -33,12 +33,35 @@
 				<div class="pad4">
 					<img src="assets/img/watermelon_front.jpg" class="center-block img-responsive img-rounded" alt="Upper Watermelon House entrance" title="Upper Watermelon House entrance">	
 				</div>
-				
-				<div class="pad4">		
-					<img src="assets/img/watermelon_rear.jpg" class="center-block img-responsive img-rounded" alt="Lower Watermelon House entrance" title="Lower Watermelon House entrance">	
-				</div>		
 			</div>
 		</div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col md-4">
+				<div class="pad4">		
+					<img src="assets/img/watermelon_rear.jpg" class="center-block img-responsive img-rounded" alt="Lower Watermelon House entrance" title="Lower Watermelon House entrance">	
+				</div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col md-4">
+				<div class="pad4">		
+					<img src="assets/img/n_uwm_kitchen_s.JPG" class="center-block img-responsive img-rounded" alt="Upper Watermelon House Kitchen" title="Upper Watermelon Kitchen">	
+				</div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col md-4">
+				<div class="pad4">		
+					<img src="assets/img/n_wm_bedroom_s.JPG" class="center-block img-responsive img-rounded" alt="Upper Watermelon Bedroom" title="Upper Watermelon Bedroom">	
+				</div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col md-4">
+				<div class="pad4">		
+					<img src="assets/img/n_wm_porch_s.JPG" class="center-block img-responsive img-rounded" alt="Upper Watermelon Porch" title="Upper Watermelon Porch">	
+				</div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col md-4">
+				<div class="pad4">		
+					<img src="assets/img/n_uwm_frontroom_s.JPG" class="center-block img-responsive img-rounded" alt="Upper Watermelon House Front Room" title="Upper Watermelon Front Room">	
+				</div>
+      </div>
+    </div>
 	</div>
 </div>
 

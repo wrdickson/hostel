@@ -24,14 +24,40 @@
 				<div class="pad4">
 					<img src="assets/img/watermelon-lower.gif" class="center-block img-responsive img-rounded" alt="Floor plan for Lower Watermelon House" title="Floor plan for Lower Watermelon House">
 				</div>
-				<div class="pad4">
-					<img src="assets/img/watermelon_front.jpg" class="center-block img-responsive img-rounded" alt="Watermelon House at Lazy Lizard Hostel" title="Watermelon House at Lazy Lizard Hostel">	
-				</div>
-				<div class="pad4">
-					<img src="assets/img/watermelon_rear.jpg" class="center-block img-responsive img-rounded" alt="Watermelon House at Lazy Lizard Hostel" title="Watermelon House at Lazy Lizard Hostel">	
-				</div>
 			</div>
 		</div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="pad4">
+					<img src="assets/img/watermelon_front.jpg" class="center-block img-responsive img-rounded" alt="Watermelon House at Lazy Lizard Hostel" title="Watermelon House at Lazy Lizard Hostel">	
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="pad4">
+          <img src="assets/img/watermelon_rear.jpg" class="center-block img-responsive img-rounded" alt="Watermelon House at Lazy Lizard Hostel" title="Watermelon House at Lazy Lizard Hostel">	
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="pad4">
+          <img src="assets/img/n_lwm_kitchen_s.JPG" class="center-block img-responsive img-rounded" alt="Lower Watermelon Kitchen" title="Lower Watermelon Kitchen">	
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="pad4">
+          <img src="assets/img/n_lwm_bedroom_s.JPG" class="center-block img-responsive img-rounded" alt="Lower Watermelon Bedroom" title="Lower Watermelon Bedroom">	
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="pad4">
+          <img src="assets/img/n_lwm_laundry_s.JPG" class="center-block img-responsive img-rounded" alt="Lower Watermelon Laundry" title="Lower Watermelon Laundry">	
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="pad4">
+          <img src="assets/img/n_lwm_backyard_s.JPG" class="center-block img-responsive img-rounded" alt="Lower Watermelon Backyard" title="Lower Watermelon Backyard">	
+        </div>
+      </div>
+    </div>
 	</div>
 </div>
 
