@@ -1,4 +1,3 @@
-'use strict';
 var availability = (function () {
 	
 var aDate;
